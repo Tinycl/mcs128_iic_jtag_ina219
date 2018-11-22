@@ -1,0 +1,3 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.c::bytes_get"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.c::bytes_get[4]"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.c::aaa"
